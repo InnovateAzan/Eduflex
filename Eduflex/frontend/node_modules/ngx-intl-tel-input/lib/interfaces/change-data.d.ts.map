@@ -1,0 +1,1 @@
+{"version":3,"file":"change-data.d.ts","sourceRoot":"","sources":["../../../../projects/ngx-intl-tel-input/src/lib/interfaces/change-data.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,UAAU;IAC1B,MAAM,CAAC,EAAE,MAAM,CAAC;IAChB,mBAAmB,CAAC,EAAE,MAAM,CAAC;IAC7B,cAAc,CAAC,EAAE,MAAM,CAAC;IACxB,UAAU,CAAC,EAAE,MAAM,CAAC;IACpB,WAAW,CAAC,EAAE,MAAM,CAAC;IACrB,QAAQ,CAAC,EAAE,MAAM,CAAC;CAClB"}
